@@ -1,2 +1,2 @@
 # Mylist
-Bonus channels
+Extra channels
