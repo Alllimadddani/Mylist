@@ -3,9 +3,5 @@
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:AL JAZEERA
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
-#EXTINF:CBS47
-http://cmghlslive-i.akamaihd.net:80/hls/live/224714/WJAX/904k/prog.m3u8
-#EXTINF:WJXT NEWS4
-http://play-prod1.live.anvato.net/server/play/pns-wjxt-dfp/master.m3u8
 #EXTINF:BUZZR
 https://www.nicholastodor.com/buzzr/live.m3u8
