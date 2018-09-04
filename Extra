@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:MUSIC CHOICE HD
+#EXTINF:MC HD
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
 #EXTINF:AL JAZEERA ENGLISH
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
-#EXTINF:BUZZR TV
-https://buzzr-zixi.global.ssl.fastly.net/BUZZR_HLS/BUZZR_SRC_primary-BUZZR_PLUTO_2400-Bj7tPpcpTV.m3u8
+
+#EXTINF:BUZZR
+https://buzzr-zixi.global.ssl.fastly.net/BUZZR_HLS/BUZZR_SRC_primary-BUZZR_PLUTO_1500-Bj7tPjfPSV.m3u8
