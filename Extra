@@ -3,5 +3,7 @@
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:YEEAH TEEN
 http://stmv2.srvstm.com/yeeahteen/yeeahteen/playlist.m3u8
-#EXTINF:OWN HD
+#EXTINF:HD
 http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/4296k/index.m3u8
+#EXTINF:WESTERN
+https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
