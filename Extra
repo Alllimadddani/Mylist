@@ -3,3 +3,7 @@
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:YEEAH TEEN
 http://stmv2.srvstm.com/yeeahteen/yeeahteen/playlist.m3u8
+#EXTINF:BUZZR1
+http://tv.bmx-tv.top:1935/live/17.smil/playlist.m3u8
+#EXTINF:BUZZR2
+https://buzzr-zixi.global.ssl.fastly.net/BUZZR_HLS_TEST.m3u8
