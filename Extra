@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:AL JAZEERA UK
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:YEEAH TEEN
+#EXTINF:YEEAY,TEEN
 http://stmv2.srvstm.com/yeeahteen/yeeahteen/playlist.m3u8
 #EXTINF:HD
 http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/4296k/index.m3u8
