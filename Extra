@@ -1,69 +1,14 @@
-#EXTM3U
-#EXTINF:0,Twit Tech News
-http://iphone-streaming.ustream.tv/ustreamVideo/1524/streams/live/playlist.m3u8
-#EXTINF:0,ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_800_av-b.m3u8?
-#EXTINF:-1,UK : BBC 1
-http://62.210.162.88:80/live/bbc_uk159/134954042016/2141.ts
-#EXTINF:-1,UK : BBC 2
-http://62.210.162.88:80/live/bbc_uk159/134954042016/2142.ts
-#EXTINF:-1,UK : BBC 3
-http://62.210.162.88:80/live/bbc_uk159/134954042016/2143.ts 
-#EXTINF:-1,RTE News Now Ireland
-http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
-#EXTINF:-1,LIVE NEWS - RU
-http://win.cdn.bonus-tv.ru/TVB8/lifenews/playlist.m3u8
-#EXTINF:-1,FRANCE 24
-http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8?Wse=4577tr
-#EXTINF:-1,FRANCE 24 (EN) 
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1,cnn live
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/media_7419.m3u8
-#EXTINF:-1,FRANCE 24 (EN) HD
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1,ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:-1,iNews (Israel)
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
-#EXTINF:-1,EuroNews English
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
-#EXTINF:-1,EuroNews
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan350_rtp.sdp
-#EXTINF:-1,ALAZEERA ENGLISH
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
-#EXTINF:0,Bloomberg
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-Al Jazeera - ARABIC
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#‎EXTINF‬:-1 ABC NEWS
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:-1,TN
-rtsp://stream.tn.com.ar/live/tnhd1
-#EXTINF:-1,C5N
-rtmp://c5n.stweb.tv:1935/c5n/live
-#EXTINF:-1,Canal 26 Noticias
-rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360
-#EXTINF:-1,A24
-http://iphone-streaming.ustream.tv/uhls/17916700/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,360TV
-http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
-#EXTINF:-1,Canal Rural
-rtsp://streamrural.cmd.com.ar:1935/liverural/crural/rural1
-#EXTINF:-1,CNN en español
-http://187.247.255.139/Apple/CNNEspanol1200.m3u8
-#EXTINF:-1,Azteca Noticias
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-#EXTINF:-1,Canal 24 horas
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_1.m3u8
-#EXTINF:-1 group-title="Variedades",3/24
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-#EXTINF:-1,Euronews en Español
-http://149.11.34.78:1935/live/euronewses.stream/playlist.m3u8
-#EXTINF:-1,LiFE News(720p)
-http://tv.life.ru/lifetv/720p/index.m3u8
-#EXTINF:-1,LiFE News(360p)
-http://tv.life.ru/lifetv/360p/index.m3u8
-#EXTINF:-1, i24 News (French).
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
-#EXTINF:-1, i24 News (Arabia)
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
+
+#EXTM#U
+#EXTINF:-1,ABC NEWS HD
+http://abclive.abcnews.com/i/abc_live1@136327/master.m3u8
+#EXTINF:-1,ABC NEWS LINK 2 HD
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1,C-SPAN HD
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8
+#EXTINF:-1,C-SPAN 2 HD
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
+#EXTINF:-1,CTV NEWS HD
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+#EXTINF:-1,CTV NEW LINK 2 HD
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
